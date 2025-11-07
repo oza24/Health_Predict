@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "symptoms": ["cough", "runny_nose", "sore_throat"],
+    "disease": "common_cold",
+    "age": 25,
+    "gender": "male",
+    "outcome": "confirmed",
+    "confidence": 0.9
+  },
+  {
+    "id": "2",
+    "symptoms": ["cough", "runny_nose", "fatigue"],
+    "disease": "common_cold",
+    "age": 30,
+    "gender": "female",
+    "outcome": "confirmed",
+    "confidence": 0.85
+  },
+  {
+    "id": "3",
+    "symptoms": ["fever", "cough", "fatigue", "headache"],
+    "disease": "flu",
+    "age": 35,
+    "gender": "male",
+    "outcome": "confirmed",
+    "confidence": 0.9
+  },
+  {
+    "id": "4",
+    "symptoms": ["fever", "chills", "fatigue", "shortness_breath"],
+    "disease": "flu",
+    "age": 28,
+    "gender": "female",
+    "outcome": "confirmed",
+    "confidence": 0.88
+  },
+  {
+    "id": "5",
+    "symptoms": ["fever", "cough", "shortness_breath", "fatigue"],
+    "disease": "covid19",
+    "age": 45,
+    "gender": "male",
+    "outcome": "confirmed",
+    "confidence": 0.95
+  },
+  {
+    "id": "6",
+    "symptoms": ["fever", "loss_appetite", "fatigue", "chest_pain"],
+    "disease": "covid19",
+    "age": 52,
+    "gender": "female",
+    "outcome": "confirmed",
+    "confidence": 0.92
+  },
+  {
+    "id": "7",
+    "symptoms": ["nausea", "vomiting", "diarrhea", "abdominal_pain"],
+    "disease": "gastroenteritis",
+    "age": 22,
+    "gender": "male",
+    "outcome": "confirmed",
+    "confidence": 0.9
+  },
+  {
+    "id": "8",
+    "symptoms": ["nausea", "diarrhea", "fever"],
+    "disease": "gastroenteritis",
+    "age": 38,
+    "gender": "female",
+    "outcome": "confirmed",
+    "confidence": 0.87
+  },
+  {
+    "id": "9",
+    "symptoms": ["headache", "nausea", "dizziness"],
+    "disease": "migraine",
+    "age": 29,
+    "gender": "female",
+    "outcome": "confirmed",
+    "confidence": 0.88
+  },
+  {
+    "id": "10",
+    "symptoms": ["headache", "fatigue", "nausea"],
+    "disease": "migraine",
+    "age": 34,
+    "gender": "male",
+    "outcome": "confirmed",
+    "confidence": 0.85
+  },
+  {
+    "id": "11",
+    "symptoms": ["rash", "itching", "swelling"],
+    "disease": "allergic_reaction",
+    "age": 26,
+    "gender": "female",
+    "outcome": "confirmed",
+    "confidence": 0.9
+  },
+  {
+    "id": "12",
+    "symptoms": ["rash", "shortness_breath", "nausea"],
+    "disease": "allergic_reaction",
+    "age": 31,
+    "gender": "male",
+    "outcome": "confirmed",
+    "confidence": 0.93
+  },
+  {
+    "id": "13",
+    "symptoms": ["cough", "runny_nose", "sore_throat", "fatigue"],
+    "disease": "common_cold",
+    "age": 27,
+    "gender": "male",
+    "outcome": "confirmed",
+    "confidence": 0.88
+  },
+  {
+    "id": "14",
+    "symptoms": ["fever", "cough", "headache", "chills"],
+    "disease": "flu",
+    "age": 42,
+    "gender": "female",
+    "outcome": "confirmed",
+    "confidence": 0.91
+  },
+  {
+    "id": "15",
+    "symptoms": ["fever", "cough", "fatigue", "loss_appetite"],
+    "disease": "covid19",
+    "age": 38,
+    "gender": "male",
+    "outcome": "confirmed",
+    "confidence": 0.89
+  },
+  {
+    "id": "16",
+    "symptoms": ["nausea", "vomiting", "abdominal_pain"],
+    "disease": "gastroenteritis",
+    "age": 19,
+    "gender": "female",
+    "outcome": "confirmed",
+    "confidence": 0.86
+  },
+  {
+    "id": "17",
+    "symptoms": ["headache", "dizziness", "fatigue"],
+    "disease": "migraine",
+    "age": 33,
+    "gender": "female",
+    "outcome": "confirmed",
+    "confidence": 0.87
+  },
+  {
+    "id": "18",
+    "symptoms": ["rash", "itching", "swelling", "nausea"],
+    "disease": "allergic_reaction",
+    "age": 24,
+    "gender": "male",
+    "outcome": "confirmed",
+    "confidence": 0.92
+  },
+  {
+    "id": "19",
+    "symptoms": ["cough", "runny_nose"],
+    "disease": "common_cold",
+    "age": 31,
+    "gender": "female",
+    "outcome": "confirmed",
+    "confidence": 0.82
+  },
+  {
+    "id": "20",
+    "symptoms": ["fever", "fatigue", "headache", "shortness_breath"],
+    "disease": "flu",
+    "age": 47,
+    "gender": "male",
+    "outcome": "confirmed",
+    "confidence": 0.90
+  }
+]
